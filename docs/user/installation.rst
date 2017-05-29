@@ -9,11 +9,11 @@ Step 1 : Spotipy
 ====================================
 
 
-_Spotipy is a lightweight Python library
+Spotipy is a lightweight Python library
 for the Spotify Web API. With Spotipy you get full access to all of the music
 data provided by the Spotify platform.
 
-_HSpotipy is build on top of _Spotipy.
+HSpotipy is build on top of Spotipy.
 More information and SDK please check `here <http://spotipy.readthedocs.io/en/latest/#>`_
 
 
@@ -35,7 +35,7 @@ Click `Spotify My Applications <https://developer.spotify.com/my-applications/#!
 You will ask to enter an `Application Name` and `Application Description`, then click save,
 
 .. warning::
-  Before you use _HSpotipy, you have to do this step yourself.
+  Before you use HSpotipy, you have to do this step yourself.
 
 
 .. _Spotipy: https://github.com/plamere/spotipy
