@@ -1,0 +1,9 @@
+hspotipy/__pacache__
+hspotipy/.DS_Store
+.DS_Store
+dist
+build/
+hspotipy.egg-info
+data/.DS_Store
+*.pyc
+*.gz
