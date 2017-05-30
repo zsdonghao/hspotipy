@@ -22,6 +22,7 @@ User Guide
    :maxdepth: 2
 
    user/installation
+   user/authorization
 
 
 

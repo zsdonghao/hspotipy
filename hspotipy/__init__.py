@@ -17,3 +17,7 @@ __version__ = "0.0.1"
 
 global_flag = {}
 global_dict = {}
+
+# create your application, https://developer.spotify.com/my-applications/
+SPOTIPY_CLIENT_ID = ''
+SPOTIPY_CLIENT_SECRET = ''

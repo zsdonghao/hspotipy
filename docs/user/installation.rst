@@ -6,7 +6,7 @@ Installation
 
 
 Step 1 : Spotipy
-====================================
+======================
 
 `Spotipy`_ is a lightweight Python library
 for the Spotify Web API. With `Spotipy`_ you get full access to all of the music
@@ -19,24 +19,22 @@ More information and SDK please check `here <http://spotipy.readthedocs.io/en/la
 .. note::
     We highly suggest python3
 
-
 .. code-block:: bash
 
   pip install spotipy
 
+Step 2 : Account
+======================
 
+Before you start, you have to set up your account, register your application and prepare your environment.
+Please go to the next section ``Authorization`` and follow `Web API Tutorial`_ .
 
-Step 2 : Create Spotify App
-===============================
+After that, you can create a local website to test your project.
 
-Before you start you will need to apply an application from `Spotify Developer Website <https://developer.spotify.com/>`_.
-Click `Spotify My Applications <https://developer.spotify.com/my-applications/#!/>`_ .
-You will ask to enter an `Application Name` and `Application Description`, then click save,
-
-.. warning::
-  Before you use `HSpotipy`_, you have to do this step yourself.
-
+Step 3 : Node JS
+=====================
 
 .. _Spotipy: https://github.com/plamere/spotipy
 .. _GitHub: https://github.com/zsdonghao/haospotipy
 .. _HSpotipy: https://github.com/zsdonghao/hspotipy/
+.. _Web API Tutorial: https://developer.spotify.com/web-api/authorization-guide/
